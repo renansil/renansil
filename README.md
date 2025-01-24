@@ -5,10 +5,6 @@
 🎯 Atualmente trabalhando com operações de dados em Startup  
 🌱 Aprendendo sobre data engineer e outras ferramentas de dados  
 
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=nightowl)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=nightowl)
-
 ---
 
 ### Tecnologias e Ferramentas   
@@ -20,6 +16,11 @@
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-0270B7?style=flat-square&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)  
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=nightowl)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=nightowl)
 
 ---
 

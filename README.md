@@ -2,8 +2,8 @@
 
 💻 Data Engineer | Data Analyst    
 🚀 Apaixonado por dados  
-🎯 Atualmente trabalhando como analista de dados  
-🌱 Aprendendo sobre Python, SQL e outras ferramentas de dados 
+🎯 Atualmente trabalhando com operações de dados em Startup  
+🌱 Aprendendo sobre data engineer e outras ferramentas de dados  
 
 ---
 

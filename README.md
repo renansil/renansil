@@ -5,6 +5,10 @@
 🎯 Atualmente trabalhando com operações de dados em Startup  
 🌱 Aprendendo sobre data engineer e outras ferramentas de dados  
 
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=nightowl)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=nightowl)
+
 ---
 
 ### Tecnologias e Ferramentas   
@@ -23,9 +27,4 @@
 📧 [renansilveira39@gmail.com](mailto:renansilveira39@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/renan-silveira-a7598612a/)  
 💼 [Portfólio](https://brain.net.br/)  
-
----
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=nightowl)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=nightowl)
 

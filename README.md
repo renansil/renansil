@@ -26,6 +26,6 @@
 
 ---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=nightowl)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=nightowl)
 

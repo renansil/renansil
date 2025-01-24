@@ -1,9 +1,9 @@
 # Olá! 👋 Eu sou Renan
 
-💻 Engenheiro de dados  
+💻 Data Engineer | Data Analyst    
 🚀 Apaixonado por dados  
 🎯 Atualmente trabalhando como analista de dados  
-🌱 Aprendendo sobre Python, SQL e outras ferramentas de BI  
+🌱 Aprendendo sobre Python, SQL e outras ferramentas de dados 
 
 ---
 

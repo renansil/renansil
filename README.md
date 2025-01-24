@@ -16,5 +16,12 @@
 ---
 
 ### Contato  
-📧 [Seu Email](mailto:seuemail@email.com)  
-🌐 [Seu LinkedIn](https://linkedin.com/in/seulinkedin)  
+📧 [renansilveira39@gmail.com](mailto:renansilveira39@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/renan-silveira-a7598612a/)  
+💼 [Portfólio](https://brain.net.br/)  
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+

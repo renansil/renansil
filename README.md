@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Renan
 
-💻 Data Engineer | Data Analyst    
+💻 BI | IA | Data Analyst    
 🚀 Apaixonado por dados  
 🎯 Atualmente trabalhando com operações de dados em Startup  
 🌱 Aprendendo sobre data engineer e outras ferramentas de dados  

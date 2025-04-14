@@ -15,7 +15,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-0270B7?style=flat-square&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)  
+![n8n](https://img.shields.io/badge/-n8n-F26659?style=flat-square&logo=n8n&logoColor=white)  
 
 ---
 

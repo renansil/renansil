@@ -3,7 +3,7 @@
 💻 BI | IA | Data Analyst    
 🚀 Apaixonado por dados  
 🎯 Atualmente trabalhando com operações de dados em Startup  
-🌱 Aprendendo sobre data engineer e outras ferramentas de dados  
+🌱 Aprendendo sobre IA e outras ferramentas de dados  
 
 ---
 

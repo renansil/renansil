@@ -1,13 +1,14 @@
+<div align="center">
+
 # Olá! 👋 Eu sou Renan
 
-💻 BI | IA | Data Analyst     
-🚀 Apaixonado por dados  
-🎯 Atualmente trabalhando com operações de dados em Startup  
-🌱 Aprendendo sobre IA e outras ferramentas de dados  
+### 💻 BI | IA | Data Analyst
+🚀 Apaixonado por dados &nbsp; • &nbsp; 🎯 Data Ops em Startup &nbsp; • &nbsp; 🌱 Estudando IA
 
 ---
 
-### Tecnologias e Ferramentas    
+### 🛠️ Tecnologias e Ferramentas
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
@@ -15,21 +16,35 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/-Apache%20Superset-0270B7?style=flat-square&logo=apache-superset&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-F26659?style=flat-square&logo=n8n&logoColor=white)  
+![n8n](https://img.shields.io/badge/-n8n-F26659?style=flat-square&logo=n8n&logoColor=white)
 
 ---
 
-### Estatísticas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=dark&hide_border=true)
+### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=radical&hide_border=true" alt="Renan Streak" />
+</p>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=renansil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Renan Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=radical" alt="Renan Top Langs" />
+</p>
 
 ---
 
-### Contato  
-📧 [renansilveira39@gmail.com](mailto:renansilveira39@gmail.com)  
-🌐 [LinkedIn](
+### 📫 Contato
+
+<a href="mailto:renansilveira39@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+</a>
+<a href="https://www.linkedin.com/in/renan-silveira-a7598612a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
+
+</div>
 
 

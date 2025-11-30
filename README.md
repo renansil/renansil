@@ -20,7 +20,7 @@
 ---
 
 ### Estatísticas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=dark&hide_border=true)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=radical)
 

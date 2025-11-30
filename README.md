@@ -1,13 +1,13 @@
 # Olá! 👋 Eu sou Renan
 
-💻 BI | IA | Data Analyst    
+💻 BI | IA | Data Analyst     
 🚀 Apaixonado por dados  
 🎯 Atualmente trabalhando com operações de dados em Startup  
 🌱 Aprendendo sobre IA e outras ferramentas de dados  
 
 ---
 
-### Tecnologias e Ferramentas   
+### Tecnologias e Ferramentas    
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
@@ -19,13 +19,17 @@
 
 ---
 
+### Estatísticas
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=radical&hide_border=true)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renansil&show_icons=true&theme=radical)
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=radical)
 
 ---
 
 ### Contato  
 📧 [renansilveira39@gmail.com](mailto:renansilveira39@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/renan-silveira-a7598612a/)  
+🌐 [LinkedIn](
 
 

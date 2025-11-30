@@ -30,9 +30,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=renansil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Renan Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansil&layout=compact&theme=radical" alt="Renan Top Langs" />
-</p>
 
 ---
 

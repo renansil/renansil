@@ -20,19 +20,6 @@
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renansil&theme=radical&hide_border=true" alt="Renan Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renansil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Renan Trophies" />
-</p>
-
-
----
-
 ### 📫 Contato
 
 <a href="mailto:renansilveira39@gmail.com">
